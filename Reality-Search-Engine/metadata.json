@@ -1,0 +1,6 @@
+{
+  "name": "Reality Search Engine",
+  "description": "An AI-powered document search engine that parses, indexes, and queries PDFs using advanced RAG and Gemini semantic search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

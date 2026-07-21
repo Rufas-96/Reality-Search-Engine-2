@@ -1,0 +1,12 @@
+# Python Requirements (Not required for Node.js build, but provided for local evaluation/CS submission reference)
+# The project is fully engineered in high-performance Full-Stack TypeScript/NodeJS.
+# If you wish to rewrite the backend service in FastAPI:
+fastapi==0.110.0
+uvicorn==0.28.0
+pydantic==2.6.4
+PyPDF2==3.0.1
+chromadb==0.4.24
+sentence-transformers==2.5.1
+openai==1.14.1
+python-multipart==0.0.9
+python-dotenv==1.0.1
